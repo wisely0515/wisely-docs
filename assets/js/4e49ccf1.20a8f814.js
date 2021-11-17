@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwisely_docs=self.webpackChunkwisely_docs||[]).push([[290],{4653:function(e){e.exports=JSON.parse('{"permalink":"/wisely-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwisely_docs=self.webpackChunkwisely_docs||[]).push([[990],{8970:function(s){s.exports=JSON.parse('{"allTagsPath":"/wisely-docs/blog/tags","slug":"/wisely-docs/blog/tags/facebook","name":"facebook","count":1,"permalink":"/wisely-docs/blog/tags/facebook"}')}}]);

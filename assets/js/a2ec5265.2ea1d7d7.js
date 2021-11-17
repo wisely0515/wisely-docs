@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwisely_docs=self.webpackChunkwisely_docs||[]).push([[69],{4706:function(s){s.exports=JSON.parse('{"allTagsPath":"/wisely-docs/blog/tags","slug":"/wisely-docs/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/wisely-docs/blog/tags/docusaurus"}')}}]);
